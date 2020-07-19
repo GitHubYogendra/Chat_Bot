@@ -1,0 +1,12 @@
+type: code
+files:
+- name: src/Main.java
+  visible: true
+  learner_created: true
+feedback_link: https://hyperskill.org/learn/step/2221
+status: Failed
+feedback:
+  message: |
+    Failed test #3 of 20. Wrong answer
+  time: Mon, 13 Jul 2020 06:20:07 UTC
+record: -1
